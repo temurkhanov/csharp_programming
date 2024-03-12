@@ -1,6 +1,6 @@
-﻿int N=13;
+﻿int N = 13;
 
-for( int i=1; i<N; i++)
+for (int i = 1; i < N; i++)
 {
     Console.WriteLine(i);
 }

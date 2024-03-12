@@ -1,7 +1,7 @@
-﻿int a=11;
-int b=9;
+﻿int a = 11;
+int b = 9;
 
-if (a>b)
+if (a > b)
 {
     Console.WriteLine(a);
 }

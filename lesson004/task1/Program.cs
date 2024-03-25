@@ -22,5 +22,5 @@ void print_matrix(int[,] print_matrix)
     }
     
 }
-int[,] sample_matrix=fill_matrix(4,5);
+int[,] sample_matrix=fill_matrix(1,5);
 print_matrix(sample_matrix);
